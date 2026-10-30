@@ -1,2 +1,2 @@
 # DSC180A-Methodology-3
-Ryan Lindberg
+Sweekrit Bhatnagar
